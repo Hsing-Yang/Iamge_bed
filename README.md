@@ -3,12 +3,11 @@
 > diandengjun CDN by jsDelivr
 
 - GitHub: <https://github.com/Hsing-Yang/cdn>
-- GitHub CDN: <https://github.com/User_Name/cdn/raw/master>
-- GitHub CDN Alias: <https://cdn.yunyoujun.cn>
-- jsDelivr CDN: <https://cdn.jsdelivr.net/gh/User_Name/cdn>
-- jsDelivr CDN Alias: <https://cdn.elpsy.cn>
+- GitHub CDN: <https://github.com/Hsing-Yang/cdn/raw/master>
+- GitHub CDN Alias: <>
+- jsDelivr CDN: <https://cdn.jsdelivr.net/gh/Hsing-Yang/cdn>
+- jsDelivr CDN Alias: <>
 
-- https://fonts.google.com/)
 
 ## Usage
 
