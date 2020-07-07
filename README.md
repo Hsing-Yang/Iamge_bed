@@ -2,10 +2,10 @@
 
 > diandengjun CDN by jsDelivr
 
-- GitHub: <https://github.com/Hsing-Yang/cdn>
-- GitHub CDN: <https://github.com/Hsing-Yang/cdn/raw/master>
+- GitHub: <https://github.com/DianDengJun/cdn>
+- GitHub CDN: <https://github.com/DianDengJun/cdn/raw/master>
 - GitHub CDN Alias: <>
-- jsDelivr CDN: <https://cdn.jsdelivr.net/gh/Hsing-Yang/cdn>
+- jsDelivr CDN: <https://cdn.jsdelivr.net/gh/DianDengJun/cdn>
 - jsDelivr CDN Alias: <>
 
 
