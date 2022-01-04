@@ -1,6 +1,6 @@
 # CDN
 
-> diandengjun CDN by jsDelivr
+> icodexin CDN by jsDelivr
 
 - GitHub: <https://github.com/DianDengJun/cdn>
 - GitHub CDN: <https://github.com/DianDengJun/cdn/raw/master>
