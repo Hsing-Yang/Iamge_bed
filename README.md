@@ -2,10 +2,10 @@
 
 > icodexin CDN by jsDelivr
 
-- GitHub: <https://github.com/DianDengJun/cdn>
-- GitHub CDN: <https://github.com/DianDengJun/cdn/raw/master>
+- GitHub: <https://github.com/icodexin/cdn>
+- GitHub CDN: <https://github.com/icodexin/cdn/raw/master>
 - GitHub CDN Alias: <>
-- jsDelivr CDN: <https://cdn.jsdelivr.net/gh/DianDengJun/cdn>
+- jsDelivr CDN: <https://cdn.jsdelivr.net/gh/icodexin/cdn>
 - jsDelivr CDN Alias: <>
 
 
